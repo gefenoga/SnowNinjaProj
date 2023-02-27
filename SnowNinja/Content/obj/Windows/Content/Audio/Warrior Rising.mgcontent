@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/Warrior Rising.mp3</SourceFile>
+  <SourceTime>2022-05-27T23:50:14.7518471+03:00</SourceTime>
+  <DestFile>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/bin/Windows/Content/Audio/Warrior Rising.xnb</DestFile>
+  <DestTime>2022-06-11T17:27:21.1392586+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/bin/Windows/Content/Audio/Warrior Rising.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

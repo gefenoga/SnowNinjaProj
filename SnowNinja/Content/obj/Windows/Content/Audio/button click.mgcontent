@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/button click.mp3</SourceFile>
+  <SourceTime>2022-05-30T21:20:02.6369894+03:00</SourceTime>
+  <DestFile>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/bin/Windows/Content/Audio/button click.xnb</DestFile>
+  <DestTime>2022-06-11T17:27:14.1519794+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Main Class">
+    <Position X="13.708" Y="5.312" Height="0.291" Width="0.846" />
+  </Comment>
+  <Comment CommentText="Players &amp; Animation managment">
+    <Position X="21.602" Y="2.854" Height="0.312" Width="2.085" />
+  </Comment>
+  <Comment CommentText="Online managment">
+    <Position X="10.738" Y="6.122" Height="0.333" Width="1.287" />
+  </Comment>
+  <Comment CommentText="Game states &amp; menu managment">
+    <Position X="11.775" Y="1.603" Height="0.346" Width="2.141" />
+  </Comment>
+  <Comment CommentText="AI">
+    <Position X="21.456" Y="12.309" Height="0.321" Width="0.7" />
+  </Comment>
+  <Class Name="SnowNinja.Animations.Managers.AnimationManager">
+    <Position X="24.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAgAgAAAAAAACgAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>Animations\Managers\AnimationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Animations.Models.Animation">
+    <Position X="24" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAABBACAAAAAAAAIIAAAAACA=</HashCode>
+      <FileName>Animations\Models\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Animations.Models.Input">
+    <Position X="24.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAACQCAAAAAAAI=</HashCode>
+      <FileName>Animations\Models\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Animations.Sprites.HealthBar">
+    <Position X="22.25" Y="5.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAICAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animations\Sprites\HealthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Animations.Sprites.Platform">
+    <Position X="22.25" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animations\Sprites\Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Animations.Sprites.Sprite">
+    <Position X="19.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>aQQAQAAAA6BDAgAhAAKAiEADEACAEAiABAAAhAAEAAg=</HashCode>
+      <FileName>Animations\Sprites\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Bot">
+    <Position X="22.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQAAAAAAIACAAAAAAAACAIAAEAAAAAAAAEAAAAAgAA=</HashCode>
+      <FileName>Bot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Game1" Collapsed="true">
+    <Position X="12.5" Y="6.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>UA0AIEQQQkBBRwIAJRBAAgAAQEDAEAyBAkAIBBiCwBY=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Player">
+    <Position X="22.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RectangleHelper" Collapsed="true">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Internet.ClientComp" Collapsed="true">
+    <Position X="10.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Internet\ClientComp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Internet.OnlineAbst" Collapsed="true">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAACEAAAAAAQEAAAAAAgBASQAAAAgAAQAABAAQAAA=</HashCode>
+      <FileName>Internet\OnlineAbst.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Internet.ServerComp" Collapsed="true">
+    <Position X="8.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Internet\ServerComp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Snow.Snowfall" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAAAIAAAAAAAAgAAAAQAAAAAAAA=</HashCode>
+      <FileName>Snow\Snowfall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.Snow.SnowGenerator" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAgAAgAAAAAAAAAAAIAAAwQAAAAAAAAAABA=</HashCode>
+      <FileName>Snow\SnowGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.StatesMng.Component" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StatesMng\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.StatesMng.Controls.Button" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAwAAAAAAQAAAoAgAAIAAAAAAAKAAAAAAAAACgAAAgA=</HashCode>
+      <FileName>StatesMng\Controls\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.StatesMng.States.MainMenu" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAAAIgAAAACAEAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StatesMng\States\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.StatesMng.States.OptionsMenu" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIgAAAAAAAAAAAACQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StatesMng\States\OptionsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.Game" Collapsed="true">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SnowNinja.MultiPlayer" Collapsed="true">
+    <Position X="15.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="SnowNinja.MultiPlayer.OnlineState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MultiPlayer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABBAgAAAAAAAAAQAAAAEAAEAAAAAAgAAAA=</HashCode>
+      <FileName>MultiPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowNinja.StatesMng.States.State" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABAAACgABAAAAAABAAAAAAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>StatesMng\States\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="SnowNinja.Internet.OnConnectionHandler" Collapsed="true">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Internet\OnlineAbst.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

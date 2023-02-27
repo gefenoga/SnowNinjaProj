@@ -1,0 +1,57 @@
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\obj\x86\Debug\SnowNinja.csprojAssemblyReference.cache
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\obj\x86\Debug\SnowNinja.csproj.CoreCompileInputs.cache
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Controls\blueButton.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Controls\wooden button.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Snow\smallParticle.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Objects\HealthBarInside.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Objects\HealthBarOutLine.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Objects\Kunai.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\General\defeat.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\General\GameTitle.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\General\Guide.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\General\options frame.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\General\snowBack2.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\General\victory.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\button click.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\defeat.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\exit click.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\hovering.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\intro music.wma
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\intro music.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\ouch.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\throwing.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\victory.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\Warrior Rising.wma
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\Audio\Warrior Rising.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\AnimationFrames\jumpingL.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\AnimationFrames\jumpingR.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\AnimationFrames\runningL.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\AnimationFrames\runningR.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\AnimationFrames\standingR.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\AnimationFrames\throwingL.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\AnimationFrames\throwingR.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SnowNinja.exe
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SnowNinja.pdb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\obj\x86\Debug\SnowNinja.csproj.CopyComplete
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\obj\x86\Debug\SnowNinja.exe
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\obj\x86\Debug\SnowNinja.pdb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\General\snowPlat.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\standingL.xnb
+C:\Users\Gefen\source\repos\SnowNinja\SnowNinja\bin\Windows\x86\Debug\Content\AnimationFrames\standingL.xnb

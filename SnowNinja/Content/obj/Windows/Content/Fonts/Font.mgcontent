@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Fonts/Font.spritefont</SourceFile>
+  <SourceTime>2022-06-11T15:56:25.5898339+03:00</SourceTime>
+  <DestFile>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/bin/Windows/Content/Fonts/Font.xnb</DestFile>
+  <DestTime>2022-06-11T17:27:21.6142654+03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

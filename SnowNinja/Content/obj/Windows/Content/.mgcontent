@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/AnimationFrames/jumpingL.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/AnimationFrames/jumpingR.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/AnimationFrames/runningL.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/AnimationFrames/runningR.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/AnimationFrames/standingL.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/AnimationFrames/standingR.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/AnimationFrames/throwingL.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/AnimationFrames/throwingR.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/button click.mp3</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/defeat.mp3</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/exit click.mp3</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/hovering.wav</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/intro music.mp3</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/ouch.mp3</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/throwing.mp3</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/victory.mp3</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Audio/Warrior Rising.mp3</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Controls/blueButton.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Controls/wooden button.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/General/defeat.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/General/GameTitle.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/General/Guide.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/General/options frame.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/General/snowBack2.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/General/snowPlat.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/General/victory.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Objects/HealthBarInside.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Objects/HealthBarOutLine.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Objects/Kunai.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/Snow/smallParticle.png</File>
+    <File>C:/Users/Gefen/source/repos/SnowNinja/SnowNinja/Content/standingL.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
